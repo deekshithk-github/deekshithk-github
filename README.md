@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @deekshithk-github
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img width="600" height="399" alt="image" src="https://github.com/user-attachments/assets/a6c03270-0654-4034-ad63-9b5b147d84e2" />
 
-<!---
-deekshithk-github/deekshithk-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
