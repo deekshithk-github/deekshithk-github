@@ -3,5 +3,8 @@
 
 <h1>DevOps Engineer</h1>
 
+<img width="612" height="344" alt="image" src="https://github.com/user-attachments/assets/30c3b0c0-0972-496e-acfe-be3f98ccf46b" />
+
+
 
 
